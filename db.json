@@ -70,10 +70,7 @@
     }
   }
 ],
-  "invoices": [
-    {
-      "id": "1234",
-      "codigo": "XKLDV"
-    }
-  ]
+  "profile": {
+    "name": "Mike"
+  }
 }
