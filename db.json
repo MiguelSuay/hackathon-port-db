@@ -1,4 +1,5 @@
-[
+{
+  "users":[
   {
     "id": 1,
     "name": "Leanne Graham",
@@ -68,4 +69,11 @@
       "bs": "e-enable strategic applications"
     }
   }
-]
+],
+  "invoices": [
+    {
+      "id": "1234",
+      "codigo": "XKLDV"
+    },
+  ]
+}
