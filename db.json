@@ -1,261 +1,336 @@
 {
-  "sellers":[
-  {
-    "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
-    "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
-    "company": {
-      "name": "Romaguera-Crona",
-      "catchPhrase": "Multi-layered client-server neural-net",
-      "bs": "harness real-time e-markets"
-    }
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
-    "email": "Shanna@melissa.tv",
-    "address": {
-      "street": "Victor Plains",
-      "suite": "Suite 879",
-      "city": "Wisokyburgh",
-      "zipcode": "90566-7771",
-      "geo": {
-        "lat": "-43.9509",
-        "lng": "-34.4618"
-      }
-    },
-    "phone": "010-692-6593 x09125",
-    "website": "anastasia.net",
-    "company": {
-      "name": "Deckow-Crist",
-      "catchPhrase": "Proactive didactic contingency",
-      "bs": "synergize scalable supply-chains"
-    }
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "username": "Samantha",
-    "email": "Nathan@yesenia.net",
-    "address": {
-      "street": "Douglas Extension",
-      "suite": "Suite 847",
-      "city": "McKenziehaven",
-      "zipcode": "59590-4157",
-      "geo": {
-        "lat": "-68.6102",
-        "lng": "-47.0653"
-      }
-    },
-    "phone": "1-463-123-4447",
-    "website": "ramiro.info",
-    "company": {
-      "name": "Romaguera-Jacobson",
-      "catchPhrase": "Face to face bifurcated interface",
-      "bs": "e-enable strategic applications"
-    }
-  }
-],
-  "buyers":[
-{
-  "id": 1,
-  "name": "Leanne Graham",
-  "username": "Bret",
-  "email": "Sincere@april.biz",
-  "address": {
-    "street": "Kulas Light",
-    "suite": "Apt. 556",
-    "city": "Gwenborough",
-    "zipcode": "92998-3874",
-    "geo": {
-      "lat": "-37.3159",
-      "lng": "81.1496"
-    }
-  },
-  "phone": "1-770-736-8031 x56442",
-  "website": "hildegard.org",
-  "company": {
-    "name": "Romaguera-Crona",
-    "catchPhrase": "Multi-layered client-server neural-net",
-    "bs": "harness real-time e-markets"
-  }
-},
-{
-  "id": 2,
-  "name": "Ervin Howell",
-  "username": "Antonette",
-  "email": "Shanna@melissa.tv",
-  "address": {
-    "street": "Victor Plains",
-    "suite": "Suite 879",
-    "city": "Wisokyburgh",
-    "zipcode": "90566-7771",
-    "geo": {
-      "lat": "-43.9509",
-      "lng": "-34.4618"
-    }
-  },
-  "phone": "010-692-6593 x09125",
-  "website": "anastasia.net",
-  "company": {
-    "name": "Deckow-Crist",
-    "catchPhrase": "Proactive didactic contingency",
-    "bs": "synergize scalable supply-chains"
-  }
-},
-{
-  "id": 3,
-  "name": "Clementine Bauch",
-  "username": "Samantha",
-  "email": "Nathan@yesenia.net",
-  "address": {
-    "street": "Douglas Extension",
-    "suite": "Suite 847",
-    "city": "McKenziehaven",
-    "zipcode": "59590-4157",
-    "geo": {
-      "lat": "-68.6102",
-      "lng": "-47.0653"
-    }
-  },
-  "phone": "1-463-123-4447",
-  "website": "ramiro.info",
-  "company": {
-    "name": "Romaguera-Jacobson",
-    "catchPhrase": "Face to face bifurcated interface",
-    "bs": "e-enable strategic applications"
-  }
-}
-],
-  "sales_listings":[
-    {
-      "id": "1",
-      "product_name": "Neumaticos",
-      "Ler_code": "325547897",
-      "Material":	"Neumatico",
-      "Product_Group":	"Non-ferrous",
-      "Colour":	"Black",
-      "Status":	"Live",
-      "Source":	"Post consumer",
-      "Terminal": "4",
-      "Company":	"From recycling center",
-      "Location":	"CRT"
-    },
-    {
-      "id": "2",
-      "product_name": "Neumaticos",
-      "Ler_code": "325547897",
-      "Material":	"Neumatico",
-      "Product_Group":	"Non-ferrous",
-      "Colour":	"Black",
-      "Status":	"Live",
-      "Source":	"Post consumer",
-      "Terminal": "4",
-      "Company":	"From recycling center",
-      "Location":	"CRT"
-    },
-    {
-      "id": "3",
-      "product_name": "Neumaticos",
-      "Ler_code": "325547897",
-      "Material":	"Neumatico",
-      "Product_Group":	"Non-ferrous",
-      "Colour":	"Black",
-      "Status":	"Live",
-      "Source":	"Post consumer",
-      "Terminal": "4",
-      "Company":	"From recycling center",
-      "Location":	"CRT"
-    }
-  ],
-  "request_listings":[
-    {
-      "id": "1",
-      "product_name": "Neumaticos",
-      "Ler_code": "325547897",
-      "Material":	"Neumatico",
-      "Product_Group":	"Non-ferrous",
-      "Colour":	"Black",
-      "Status":	"Live",
-      "Source":	"Post consumer",
-      "Terminal": "4",
-      "Company":	"From recycling center",
-      "Location":	"CRT"
-    },
-    {
-      "id": "2",
-      "product_name": "Neumaticos",
-      "Ler_code": "325547897",
-      "Material":	"Neumatico",
-      "Product_Group":	"Non-ferrous",
-      "Colour":	"Black",
-      "Status":	"Live",
-      "Source":	"Post consumer",
-      "Terminal": "4",
-      "Company":	"From recycling center",
-      "Location":	"CRT"
-    },
-    {
-      "id": "3",
-      "product_name": "Neumaticos",
-      "Ler_code": "325547897",
-      "Material":	"Neumatico",
-      "Product_Group":	"Non-ferrous",
-      "Colour":	"Black",
-      "Status":	"Live",
-      "Source":	"Post consumer",
-      "Terminal": "4",
-      "Company":	"From recycling center",
-      "Location":	"CRT"
-    }
-  ],
   "products": [
-    {
-      "id": "1",
-      "product": "Paper" ,
-      "LER_code": "309409504",
-      "weight": "3 TN",
-      "container": "Type 3",
-      "seller": "CRT. From recycling center",
-      "current_price": "125 eur/Ton",
-      "product_image": "Url a imagen de basura",
-      "type_of_bid": "positive"
+  {
+    "id": "1",
+    "product": "Electronic circuits",
+    "product_category": "Electronics",
+    "ler_code": "309409506",
+    "weight": "4 TN",
+    "container": "Type 2",
+    "seller": "CRT. From recycling center",
+    "current_price": "500 eur/Ton",
+    "product_image": "https://borrar-recursos-hackathon.s3-eu-west-1.amazonaws.com/circuits.jpg",
+    "type_of_bid": "waste"
+  },
+  {
+    "id": "2",
+    "product": "Scrapped Metals",
+    "product_category": "metals",
+    "ler_code": "309409345",
+    "weight": "10 TN",
+    "container": "Type 1",
+    "seller": "CRT. From recycling center",
+    "current_price": "900 eur/Ton",
+    "product_image": "https://borrar-recursos-hackathon.s3-eu-west-1.amazonaws.com/metals.jpg",
+    "type_of_bid": "purchase"
+  },
+  {
+    "id": "3",
+    "product": "Paper",
+    "product_category": "paper",
+    "ler_code": "309409504",
+    "weight": "3 TN",
+    "container": "Type 3",
+    "seller": "CRT. From recycling center",
+    "current_price": "125 eur/Ton",
+    "product_image": "https://borrar-recursos-hackathon.s3-eu-west-1.amazonaws.com/paper2.jpg",
+    "type_of_bid": "purchase"
+  },
+  {
+    "id": "4",
+    "product": "Scrapped Metals",
+    "product_category": "metals",
+    "ler_code": "309409345",
+    "weight": "10 TN",
+    "container": "Type 1",
+    "seller": "CRT. From recycling center",
+    "current_price": "900 eur/Ton",
+    "product_image": "https://borrar-recursos-hackathon.s3-eu-west-1.amazonaws.com/metals.jpg",
+    "type_of_bid": "purchase"
+  },
+  {
+    "id": "5",
+    "product": "Electronic circuits",
+    "product_category": "Electronics",
+    "ler_code": "309409506",
+    "weight": "4 TN",
+    "container": "Type 2",
+    "seller": "CRT. From recycling center",
+    "current_price": "500 eur/Ton",
+    "product_image": "https://borrar-recursos-hackathon.s3-eu-west-1.amazonaws.com/paper1.jpg",
+    "type_of_bid": "waste"
+  },
+  {
+    "id": "6",
+    "product": "Used Tires",
+    "product_category": "plastics",
+    "ler_code": "309409345",
+    "weight": "5 TN",
+    "container": "Type 2",
+    "seller": "CRT. From recycling center",
+    "current_price": "900 eur/Ton",
+    "product_image": "https://borrar-recursos-hackathon.s3-eu-west-1.amazonaws.com/tires.jpg",
+    "type_of_bid": "purchase"
+  },
+  {
+    "id": "7",
+    "product": "Plastic",
+    "product_category": "plastics",
+    "ler_code": "309409345",
+    "weight": "3 TN",
+    "container": "Type 5",
+    "seller": "CRT. From recycling center",
+    "current_price": "325 eur/Ton",
+    "product_image": "https://borrar-recursos-hackathon.s3-eu-west-1.amazonaws.com/plastics.jpg",
+    "type_of_bid": "purchase"
+  },
+  {
+    "id": "8",
+    "product": "Paper",
+    "product_category": "paper",
+    "ler_code": "309409504",
+    "weight": "3 TN",
+    "container": "Type 3",
+    "seller": "CRT. From recycling center",
+    "current_price": "125 eur/Ton",
+    "product_image": "https://borrar-recursos-hackathon.s3-eu-west-1.amazonaws.com/paper2.jpg",
+    "type_of_bid": "purchase"
+  },
+  {
+    "id": "9",
+    "product": "Scrapped Metals",
+    "product_category": "metals",
+    "ler_code": "309409345",
+    "weight": "10 TN",
+    "container": "Type 1",
+    "seller": "CRT. From recycling center",
+    "current_price": "900 eur/Ton",
+    "product_image": "https://borrar-recursos-hackathon.s3-eu-west-1.amazonaws.com/metals.jpg",
+    "type_of_bid": "purchase"
+  },
+  {
+    "id": "10",
+    "product": "Electronic circuits",
+    "product_category": "Electronics",
+    "ler_code": "309409506",
+    "weight": "4 TN",
+    "container": "Type 2",
+    "seller": "CRT. From recycling center",
+    "current_price": "500 eur/Ton",
+    "product_image": "https://borrar-recursos-hackathon.s3-eu-west-1.amazonaws.com/paper1.jpg",
+    "type_of_bid": "waste"
+  },
+  {
+    "id": "11",
+    "product": "Used Tires",
+    "product_category": "plastics",
+    "ler_code": "309409345",
+    "weight": "5 TN",
+    "container": "Type 2",
+    "seller": "CRT. From recycling center",
+    "current_price": "900 eur/Ton",
+    "product_image": "https://borrar-recursos-hackathon.s3-eu-west-1.amazonaws.com/tires.jpg",
+    "type_of_bid": "purchase"
+  },
+  {
+    "id": "12",
+    "product": "Plastic",
+    "product_category": "plastics",
+    "ler_code": "309409345",
+    "weight": "3 TN",
+    "container": "Type 5",
+    "seller": "CRT. From recycling center",
+    "current_price": "325 eur/Ton",
+    "product_image": "https://borrar-recursos-hackathon.s3-eu-west-1.amazonaws.com/plastics.jpg",
+    "type_of_bid": "purchase"
+  }
+],
+  "orders": [
+  {
+    "id": "1",
+    "product": "Paper",
+    "product_category": "paper",
+    "ler_code": "309409504",
+    "weight": "3 TN",
+    "invoice": "34456098",
+    "container": "Type 3",
+    "bought_from": "CRT. From recycling center",
+    "cost": "125 eur/Ton",
+    "product_image": "https://borrar-recursos-hackathon.s3-eu-west-1.amazonaws.com/paper2.jpg",
+    "type_of_bid": "waste"
+  },
+  {
+    "id": "2",
+    "product": "Paper. Recycled",
+    "product_category": "paper",
+    "ler_code": "309409504",
+    "weight": "3 TN",
+    "container": "Type 3",
+    "invoice": "343242098",
+    "bought_from": "CRT. From recycling center",
+    "cost": "125 eur/Ton",
+    "product_image": "https://borrar-recursos-hackathon.s3-eu-west-1.amazonaws.com/paper1.jpg",
+    "type_of_bid": "waste"
+  },
+  {
+    "id": "3",
+    "product": "Paper. High Quality",
+    "product_category": "paper",
+    "ler_code": "309409504",
+    "weight": "3 TN",
+    "container": "Type 3",
+    "bought_from": "CRT. From recycling center",
+    "invoice": "3468098",
+    "cost": "125 eur/Ton",
+    "product_image": "https://borrar-recursos-hackathon.s3-eu-west-1.amazonaws.com/paper2.jpg",
+    "type_of_bid": "waste"
+  }
+],
+  "reviews": [{
+    "id": "1",
+    "date": "24/11/2020",
+    "customer": “Aleks Stonov”,
+    "product": “tires”,
+    "rating": "3/5",
+    "comment": “Han cumplido. Todo bien“,
+    "status": "delivered"
+  },
+  {
+      "id": “2”,
+      "date": "24/11/2020",
+      "customer": "Marla Carrasco”,
+      "product": "plastics”,
+      "rating": “4/5”,
+      "comment": “Llegaron a tiempo y el precio era adecuado“,
+      "status": "delivered"
     },
-    {
-      "id": "2",
-      "product": "Paper" ,
-      "LER_code": "309409504",
-      "weight": "3 TN",
-      "container": "Type 3",
-      "seller": "CRT. From recycling center",
-      "current_price": "125 eur/Ton",
-      "product_image": "Url a imagen de basura",
-      "type_of_bid": "positive"
-    },
-    {
-      "id": "3",
-      "product": "Paper" ,
-      "LER_code": "309409504",
-      "weight": "3 TN",
-      "container": "Type 3",
-      "seller": "CRT. From recycling center",
-      "current_price": "125 eur/Ton",
-      "product_image": "Url a imagen de basura",
-      "type_of_bid": "positive"
-    }
-  ]
+{
+    "id": “3”,
+    "date": "24/11/2020",
+    "customer": “Carl Monroe”,
+    "product": “papers”,
+    "rating": “1/5”,
+    "comment": “Llegaron manchados de aceite y no se pueden reciclar“,
+    "status": "delivered"
+  },
+
+{
+    "id": “4”,
+    "date": "24/11/2020",
+    "customer": “Onofre Manchego”,
+    "product": “electric circuits”,
+    "rating": “4/5”,
+    "comment": “todo bien gracias”,
+    "status": "delivered"
+  },
+
+{
+    "id": “5”,
+    "date": "24/11/2020",
+    "customer": “Abelardo González”,
+    "product": "plastics",
+    "rating": “5/5”,
+    "comment": “ ”,
+    "status": "delivered"
+  },
+
+{
+    "id": “6”,
+    "date": "24/11/2020",
+    "customer": “Cristina Ponce“,
+    "product": "plastics",
+    "rating": “1/5”,
+    "comment": “no es lo que esperaba“,
+    "status": "delivered"
+  },
+
+{
+    "id": “7”,
+    "date": "24/11/2020",
+    "customer": “Atila SLU“,
+    "product": “tires”,
+    "rating": “5/5”,
+    "comment": “llegó la cantidad acordada en un plazo razonable“,
+    "status": "delivered"
+  },
+
+{
+    "id": “8”,
+    "date": "24/11/2020",
+    "customer": “Green deals SL”,
+    "product": "plastics",
+    "rating": “5/5”,
+    "comment": " ",
+    "status": "delivered"
+  },
+
+{
+    "id": “9”,
+    "date": "24/11/2020",
+    "customer": “Manuel Sala”,
+    "product": “europallets”,
+    "rating": "3/5",
+    "comment": “algunos llegaron inservibles”,
+    "status": "delivered"
+  },
+
+{
+    "id": “10”,
+    "date": "24/11/2020",
+    "customer": “Carlos Cuenta”,
+    "product": "plastics",
+    "rating": “5/5”,
+    "comment": "Muy fácil todo“,
+    "status": "delivered"
+  },
+
+{
+    "id": "11”,
+    "date": "24/11/2020",
+    "customer": “Pavasal”,
+    "product": “tires”,
+    "rating": “5/5”,
+    "comment": " ",
+    "status": "delivered"
+  },
+
+{
+    "id": "12”,
+    "date": "24/11/2020",
+    "customer": “Florentino Pérez“,
+    "product": “metals”,
+    "rating": “4/5”,
+    "comment": “algunos llegaron con piezas de plástico por eso no pongo un 5”,
+    "status": "delivered"
+  },
+
+{
+    "id": "13”,
+    "date": "24/11/2020",
+    "customer": “Embotelladoras de España SA”,
+    "product": “plastics”,
+    "rating": “2/5”,
+    "comment": “Aprovechable pero después de demasiado trabajo”,
+    "status": "delivered"
+  },
+
+{
+    "id": "14”,
+    "date": "24/11/2020",
+    "customer": “Cecotec”,
+    "product": “electric circuits“,
+    "rating": “4/5”,
+    "comment": " ",
+    "status": "delivered"
+  },
+
+{
+    "id": "15”,
+    "date": "24/11/2020",
+    "customer": "Michael Moore",
+    "product": "plastics",
+    "rating": “5/5”,
+    "comment": “Me ha llegado justo lo que pedí”,
+    "status": "delivered"
+  }]
 }
