@@ -57,7 +57,7 @@
     "container": "Type 2",
     "seller": "CRT. From recycling center",
     "current_price": "500 eur/Ton",
-    "product_image": "https://borrar-recursos-hackathon.s3-eu-west-1.amazonaws.com/paper1.jpg",
+    "product_image": "https://borrar-recursos-hackathon.s3-eu-west-1.amazonaws.com/paper.jpg",
     "type_of_bid": "waste"
   },
   {
@@ -117,7 +117,7 @@
     "container": "Type 2",
     "seller": "CRT. From recycling center",
     "current_price": "500 eur/Ton",
-    "product_image": "https://borrar-recursos-hackathon.s3-eu-west-1.amazonaws.com/paper1.jpg",
+    "product_image": "https://borrar-recursos-hackathon.s3-eu-west-1.amazonaws.com/paper.jpg",
     "type_of_bid": "waste"
   },
   {
@@ -169,7 +169,7 @@
     "invoice": "343242098",
     "bought_from": "CRT. From recycling center",
     "cost": "125 eur/Ton",
-    "product_image": "https://borrar-recursos-hackathon.s3-eu-west-1.amazonaws.com/paper1.jpg",
+    "product_image": "https://borrar-recursos-hackathon.s3-eu-west-1.amazonaws.com/paper.jpg",
     "type_of_bid": "waste"
   },
   {
