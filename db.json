@@ -223,6 +223,41 @@
       "Location":	"CRT"
     }
   ],
+  "products": [
+    {
+      "id": 1,
+      "product": "Paper" ,
+      "LER_code": "309409504",
+      "weight": "3 TN",
+      "container": "Type 3",
+      "seller": "CRT. From recycling center",
+      "current_price": "125 eur/Ton",
+      "product_image": "Url a imagen de basura",
+      "type_of_bid": "positive"
+    },
+    {
+      "id": 2,
+      "product": "Paper" ,
+      "LER_code": "309409504",
+      "weight": "3 TN",
+      "container": "Type 3",
+      "seller": "CRT. From recycling center",
+      "current_price": "125 eur/Ton",
+      "product_image": "Url a imagen de basura",
+      "type_of_bid": "positive"
+    },
+    {
+      "id": 3,
+      "product": "Paper" ,
+      "LER_code": "309409504",
+      "weight": "3 TN",
+      "container": "Type 3",
+      "seller": "CRT. From recycling center",
+      "current_price": "125 eur/Ton",
+      "product_image": "Url a imagen de basura",
+      "type_of_bid": "positive"
+    },
+  ],
   "categorias": [
     {
       "id": "1",
