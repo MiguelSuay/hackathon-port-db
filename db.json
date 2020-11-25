@@ -143,6 +143,7 @@
 ],
   "sales_listings":[
     {
+      "id": "1",
       "product_name": "Neumaticos",
       "Ler_code": "325547897",
       "Material":	"Neumatico",
@@ -155,6 +156,7 @@
       "Location":	"CRT"
     },
     {
+      "id": "2",
       "product_name": "Neumaticos",
       "Ler_code": "325547897",
       "Material":	"Neumatico",
@@ -167,6 +169,7 @@
       "Location":	"CRT"
     },
     {
+      "id": "3",
       "product_name": "Neumaticos",
       "Ler_code": "325547897",
       "Material":	"Neumatico",
@@ -181,6 +184,7 @@
   ],
   "request_listings":[
     {
+      "id": "1",
       "product_name": "Neumaticos",
       "Ler_code": "325547897",
       "Material":	"Neumatico",
@@ -193,6 +197,7 @@
       "Location":	"CRT"
     },
     {
+      "id": "2",
       "product_name": "Neumaticos",
       "Ler_code": "325547897",
       "Material":	"Neumatico",
@@ -205,6 +210,7 @@
       "Location":	"CRT"
     },
     {
+      "id": "3",
       "product_name": "Neumaticos",
       "Ler_code": "325547897",
       "Material":	"Neumatico",
@@ -219,14 +225,17 @@
   ],
   "categorias": [
     {
+      "id": "1",
       "category": "Sleeves, hoses and timing belts",
       "LER_code": "160121"
     },
     {
+      "id": "2",
       "category": "Sleeves, hoses and timing belts",
       "LER_code": "160121"
     },
     {
+      "id": "3",
       "category": "Sleeves, hoses and timing belts",
       "LER_code": "160121"
     }
