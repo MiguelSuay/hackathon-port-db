@@ -225,7 +225,7 @@
   ],
   "products": [
     {
-      "id": 1,
+      "id": "1",
       "product": "Paper" ,
       "LER_code": "309409504",
       "weight": "3 TN",
@@ -236,7 +236,7 @@
       "type_of_bid": "positive"
     },
     {
-      "id": 2,
+      "id": "2",
       "product": "Paper" ,
       "LER_code": "309409504",
       "weight": "3 TN",
@@ -247,7 +247,7 @@
       "type_of_bid": "positive"
     },
     {
-      "id": 3,
+      "id": "3",
       "product": "Paper" ,
       "LER_code": "309409504",
       "weight": "3 TN",
@@ -256,7 +256,7 @@
       "current_price": "125 eur/Ton",
       "product_image": "Url a imagen de basura",
       "type_of_bid": "positive"
-    },
+    }
   ],
   "categorias": [
     {
