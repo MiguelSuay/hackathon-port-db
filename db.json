@@ -257,22 +257,5 @@
       "product_image": "Url a imagen de basura",
       "type_of_bid": "positive"
     }
-  ],
-  "categorias": [
-    {
-      "id": "1",
-      "category": "Sleeves, hoses and timing belts",
-      "LER_code": "160121"
-    },
-    {
-      "id": "2",
-      "category": "Sleeves, hoses and timing belts",
-      "LER_code": "160121"
-    },
-    {
-      "id": "3",
-      "category": "Sleeves, hoses and timing belts",
-      "LER_code": "160121"
-    }
   ]
 }
