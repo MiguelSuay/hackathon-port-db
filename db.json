@@ -186,7 +186,8 @@
     "type_of_bid": "waste"
   }
 ],
-  "reviews": [{
+  "reviews": [
+    {
     "id": "1",
     "date": "24/11/2020",
     "customer": “Aleks Stonov”,
@@ -195,7 +196,7 @@
     "comment": “Han cumplido. Todo bien“,
     "status": "delivered"
   },
-  {
+    {
       "id": “2”,
       "date": "24/11/2020",
       "customer": "Marla Carrasco”,
@@ -204,7 +205,7 @@
       "comment": “Llegaron a tiempo y el precio era adecuado“,
       "status": "delivered"
     },
-{
+    {
     "id": “3”,
     "date": "24/11/2020",
     "customer": “Carl Monroe”,
@@ -213,124 +214,112 @@
     "comment": “Llegaron manchados de aceite y no se pueden reciclar“,
     "status": "delivered"
   },
-
-{
-    "id": “4”,
-    "date": "24/11/2020",
-    "customer": “Onofre Manchego”,
-    "product": “electric circuits”,
-    "rating": “4/5”,
-    "comment": “todo bien gracias”,
-    "status": "delivered"
-  },
-
-{
-    "id": “5”,
-    "date": "24/11/2020",
-    "customer": “Abelardo González”,
-    "product": "plastics",
-    "rating": “5/5”,
-    "comment": “ ”,
-    "status": "delivered"
-  },
-
-{
-    "id": “6”,
-    "date": "24/11/2020",
-    "customer": “Cristina Ponce“,
-    "product": "plastics",
-    "rating": “1/5”,
-    "comment": “no es lo que esperaba“,
-    "status": "delivered"
-  },
-
-{
-    "id": “7”,
-    "date": "24/11/2020",
-    "customer": “Atila SLU“,
-    "product": “tires”,
-    "rating": “5/5”,
-    "comment": “llegó la cantidad acordada en un plazo razonable“,
-    "status": "delivered"
-  },
-
-{
-    "id": “8”,
-    "date": "24/11/2020",
-    "customer": “Green deals SL”,
-    "product": "plastics",
-    "rating": “5/5”,
-    "comment": " ",
-    "status": "delivered"
-  },
-
-{
-    "id": “9”,
-    "date": "24/11/2020",
-    "customer": “Manuel Sala”,
-    "product": “europallets”,
-    "rating": "3/5",
-    "comment": “algunos llegaron inservibles”,
-    "status": "delivered"
-  },
-
-{
-    "id": “10”,
-    "date": "24/11/2020",
-    "customer": “Carlos Cuenta”,
-    "product": "plastics",
-    "rating": “5/5”,
-    "comment": "Muy fácil todo“,
-    "status": "delivered"
-  },
-
-{
-    "id": "11”,
-    "date": "24/11/2020",
-    "customer": “Pavasal”,
-    "product": “tires”,
-    "rating": “5/5”,
-    "comment": " ",
-    "status": "delivered"
-  },
-
-{
-    "id": "12”,
-    "date": "24/11/2020",
-    "customer": “Florentino Pérez“,
-    "product": “metals”,
-    "rating": “4/5”,
-    "comment": “algunos llegaron con piezas de plástico por eso no pongo un 5”,
-    "status": "delivered"
-  },
-
-{
-    "id": "13”,
-    "date": "24/11/2020",
-    "customer": “Embotelladoras de España SA”,
-    "product": “plastics”,
-    "rating": “2/5”,
-    "comment": “Aprovechable pero después de demasiado trabajo”,
-    "status": "delivered"
-  },
-
-{
-    "id": "14”,
-    "date": "24/11/2020",
-    "customer": “Cecotec”,
-    "product": “electric circuits“,
-    "rating": “4/5”,
-    "comment": " ",
-    "status": "delivered"
-  },
-
-{
-    "id": "15”,
-    "date": "24/11/2020",
-    "customer": "Michael Moore",
-    "product": "plastics",
-    "rating": “5/5”,
-    "comment": “Me ha llegado justo lo que pedí”,
-    "status": "delivered"
-  }]
+    {
+        "id": “4”,
+        "date": "24/11/2020",
+        "customer": “Onofre Manchego”,
+        "product": “electric circuits”,
+        "rating": “4/5”,
+        "comment": “todo bien gracias”,
+        "status": "delivered"
+      },
+    {
+        "id": “5”,
+        "date": "24/11/2020",
+        "customer": “Abelardo González”,
+        "product": "plastics",
+        "rating": “5/5”,
+        "comment": “ ”,
+        "status": "delivered"
+      },
+    {
+        "id": “6”,
+        "date": "24/11/2020",
+        "customer": “Cristina Ponce“,
+        "product": "plastics",
+        "rating": “1/5”,
+        "comment": “no es lo que esperaba“,
+        "status": "delivered"
+      },
+    {
+        "id": “7”,
+        "date": "24/11/2020",
+        "customer": “Atila SLU“,
+        "product": “tires”,
+        "rating": “5/5”,
+        "comment": “llegó la cantidad acordada en un plazo razonable“,
+        "status": "delivered"
+      },
+    {
+        "id": “8”,
+        "date": "24/11/2020",
+        "customer": “Green deals SL”,
+        "product": "plastics",
+        "rating": “5/5”,
+        "comment": " ",
+        "status": "delivered"
+      },
+    {
+        "id": “9”,
+        "date": "24/11/2020",
+        "customer": “Manuel Sala”,
+        "product": “europallets”,
+        "rating": "3/5",
+        "comment": “algunos llegaron inservibles”,
+        "status": "delivered"
+      },
+    {
+        "id": “10”,
+        "date": "24/11/2020",
+        "customer": “Carlos Cuenta”,
+        "product": "plastics",
+        "rating": “5/5”,
+        "comment": "Muy fácil todo“,
+        "status": "delivered"
+      },
+    {
+        "id": "11”,
+        "date": "24/11/2020",
+        "customer": “Pavasal”,
+        "product": “tires”,
+        "rating": “5/5”,
+        "comment": " ",
+        "status": "delivered"
+      },
+    {
+        "id": "12”,
+        "date": "24/11/2020",
+        "customer": “Florentino Pérez“,
+        "product": “metals”,
+        "rating": “4/5”,
+        "comment": “algunos llegaron con piezas de plástico por eso no pongo un 5”,
+        "status": "delivered"
+      },
+    {
+        "id": "13”,
+        "date": "24/11/2020",
+        "customer": “Embotelladoras de España SA”,
+        "product": “plastics”,
+        "rating": “2/5”,
+        "comment": “Aprovechable pero después de demasiado trabajo”,
+        "status": "delivered"
+      },
+    {
+        "id": "14”,
+        "date": "24/11/2020",
+        "customer": “Cecotec”,
+        "product": “electric circuits“,
+        "rating": “4/5”,
+        "comment": " ",
+        "status": "delivered"
+      },
+    {
+        "id": "15”,
+        "date": "24/11/2020",
+        "customer": "Michael Moore",
+        "product": "plastics",
+        "rating": “5/5”,
+        "comment": “Me ha llegado justo lo que pedí”,
+        "status": "delivered"
+      }]
 }
